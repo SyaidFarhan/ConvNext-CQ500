@@ -1,4 +1,4 @@
-# Deteksi dan Klasifikasi Perdarahan Intrakranial dari CT Scan Menggunakan ConvNeXt
+# Klasifikasi Perdarahan Intrakranial dari CT Scan Menggunakan ConvNeXt
 
 Proyek penelitian ini membangun sistem deteksi otomatis untuk **Intracranial Hemorrhage (ICH)** — perdarahan otak — dari gambar CT scan menggunakan deep learning berbasis **ConvNeXt-Tiny**. Sistem dievaluasi pada dataset CQ500 dan divalidasi secara eksternal pada dataset RSNA.
 
